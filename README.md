@@ -205,14 +205,6 @@ Service logs are typically available in:
 - Console output (when running with `java -jar`)
 - Application logs directory (if configured)
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ---
 
 **Note**: This application is designed for development and learning purposes. For production deployment, additional considerations such as security, monitoring, logging, and container orchestration should be implemented.
